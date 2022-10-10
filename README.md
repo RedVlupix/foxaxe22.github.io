@@ -1,2 +1,2 @@
-# foxaxe22.github.io
+# Foxaxe22
 My personal website
